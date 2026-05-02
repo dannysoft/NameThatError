@@ -1,9 +1,11 @@
 import random as rnd
+#Blah Blah Blah Blah Blah Blah 
+#update 16:20 02/05/26
 questionCount = 0
 questionScore = 0
 askMeAnother = True
 while askMeAnother:
-    print("\n"*12)
+    print("\n"*2)
     print("You have answered {0} questions so far and scored {1}/{0}. ".format(questionCount,questionScore))
     print("\n"*2)
     try:
